@@ -2,7 +2,7 @@
 
 ### This web app that u can write your daily jourals 📝.
 
-##Built in 
+## Languges and Tools Used In This Projec
 - HTML5
 - css3
 - Bootstrap
