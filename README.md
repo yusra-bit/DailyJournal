@@ -1,4 +1,4 @@
-# Dairy-Journal
+# Daily Journal
 
 ### This web app that u can write your daily jourals 📝.
 
