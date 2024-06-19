@@ -10,3 +10,7 @@
 - Node.js and Express
 - Ejs Template
 - Mongodb
+
+
+https://github.com/yusra-bit/DailyJournal/assets/60106667/63a91c5d-89c4-4851-b50d-6d92bff03952
+
